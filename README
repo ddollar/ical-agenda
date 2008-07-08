@@ -1,0 +1,8 @@
+generates a flat list of all iCal events by calendar
+
+dependencies
+  rb-appscript >= 0.5.1
+
+usage: iCalAgenda.rb [-a]
+  defaults to showing only future events
+  use the -a flag to show all
